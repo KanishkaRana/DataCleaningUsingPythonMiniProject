@@ -4,7 +4,7 @@ This project involves cleaning a real-world dataset using Python and pandas in G
 
 ## 🔍 What I Did
 
-- Loaded a dataset (Titanic data) using `pandas`
+- Loaded a dataset Medical Appointments No Show using `pandas`
 - Explored its structure using `.info()` and `.describe()`
 - Cleaned missing values in `Age'. 
 - Removed duplicates
